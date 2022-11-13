@@ -1,5 +1,5 @@
 # weather-app
-simple weather app {GitHub Pages}(https://quester16.github.io/weather-app/)
+simple [weather app](https://pages.github.com/)
 
 ### использовано:
 - fetch
